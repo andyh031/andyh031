@@ -1,4 +1,4 @@
-### Hi There, Welcome to my World 👋
+### Hi There 👋
 
 I'm Andy, a second year CS + Stats student at UBC.
 
